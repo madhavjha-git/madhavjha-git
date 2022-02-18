@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @madhavjha-git
-- 👀 I’m interested in Programming, Problem Solving, Trekking.
-- 🌱 I’m currently learning JavaScript, React
+- 👋 Hi, I’m Madhav Jha
+- 👀 I’m interested in Programming, Problem Solving and Trekking.
+- 🌱 I’m currently learning JavaScript,React and strengthing my skills in cloud technologies.
 - 💞️ I’m looking to collaborate on Java/Spring Boot/Django Projects. 
 - 📫 Mail me at madhavjha.cse@gmail.com to reach me.
 
